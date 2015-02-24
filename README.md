@@ -1,7 +1,11 @@
-Basic Ember App example using JSPM
+Basic Ember App example using JSPM and VCL demo
 ==========
 
-Includes plugins to compile and bundle Handlebars templates. For example:
+Import *.styl files.
+
+Includes plugins to compile and bundle Handlebars templates.
+
+For example:
 
 ```
   import tmpl from './templates/template.hbs!';
